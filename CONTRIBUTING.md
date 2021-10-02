@@ -34,7 +34,7 @@ So let's come together and contribute something awesome to the Flutter community
   
  ### 6. Enough BoilerPlates, It's Flutter time now!!
   - Open cloned Project in your favourite IDE.
-  - To choose your playground, visit [CONTRIBUTING.md]().
+  - To choose your playground, have a look at [issues](https://github.com/clubgamma/snapchat_app_clone/issues).
       
    
  ### 7. Now it's time to save the work
