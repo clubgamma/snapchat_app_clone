@@ -1,10 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:snapchat_clone_main/SplashScreen/splash_screen.dart';
+import 'package:flutter/services.dart';
 import 'MainPage/home_page.dart';
 
-void main(){
-
-  runApp(MyApp());
+void  main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])
+      .then((_) {
+    runApp(
+      MyApp(),
+    );
+  });
 }
 
 class MyApp extends StatelessWidget {
