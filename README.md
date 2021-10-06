@@ -16,7 +16,7 @@
 
 A Flutter Application as a Snapchat Clone. 🤩. 
 
-Read the [CONTRIBUTING.md](https://github.com/clubgamma/snapchat_app_clone/blob/main/CONTRIBUTING.md) to start your open source contribution.
+Read the [CONTRIBUTING.md](https://github.com/clubgamma/snapchat_app_clone/blob/master/CONTRIBUTING.md) to start your open source contribution.
 
 ## Getting Started
 
